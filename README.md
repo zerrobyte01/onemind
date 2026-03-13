@@ -7,3 +7,5 @@
 3. Node startet automatisch
 4. Node verbindet sich mit Bootstrap-Peers
 5. PoUW läuft automatisch → Node trägt zur globalen One Mind KI bei
+
+6. FÜR EIN DEZENTRALES NETZWERK FÜR KI !!
