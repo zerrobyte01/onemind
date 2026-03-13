@@ -9,3 +9,5 @@
 5. PoUW läuft automatisch → Node trägt zur globalen One Mind KI bei
 
 6. FÜR EIN DEZENTRALES NETZWERK FÜR KI !!
+
+Mit Tornetzwerk folgt!!!
